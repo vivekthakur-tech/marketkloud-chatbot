@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MarketKloud — Widget Preview</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+    background:#06080f;color:#e4e8f8;min-height:100vh;
+    display:flex;align-items:center;justify-content:center;}
+  .page{text-align:center;max-width:520px;padding:40px 20px;}
+  .logo{font-size:32px;margin-bottom:16px;}
+  h1{font-size:28px;font-weight:700;margin-bottom:10px;}
+  p{font-size:15px;color:#7a85b0;line-height:1.65;margin-bottom:8px;}
+  .hint{margin-top:32px;font-size:13px;color:#3a4260;
+    border:1px dashed #1c2238;border-radius:8px;padding:14px 18px;line-height:1.7;}
+  code{background:#141828;color:#4f7fff;padding:2px 6px;border-radius:4px;font-size:12px;}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="logo">⚡</div>
+  <h1>MarketKloud</h1>
+  <p>AI Systems &amp; Software Engineering Agency</p>
+  <p>Python · FastAPI · Next.js · LLM · RAG · n8n · HubSpot · Voice AI</p>
+  <div class="hint">
+    The chat widget is in the <strong>bottom-right corner</strong> →<br><br>
+    To embed on your own site, add one line:<br><br>
+    <code>&lt;script src="widget.js" data-api="https://your-app.onrender.com"&gt;&lt;/script&gt;</code>
+  </div>
+</div>
+
+<!-- The widget — points to localhost for local testing -->
+<script src="widget.js" data-api="http://localhost:8000"></script>
+</body>
+</html>

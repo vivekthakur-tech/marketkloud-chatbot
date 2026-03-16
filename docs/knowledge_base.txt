@@ -1,0 +1,116 @@
+# MarketKloud — Company Overview
+
+MarketKloud is an AI systems and software engineering agency. We build practical software and AI systems that help businesses automate operations, launch products faster, and scale efficiently. Our work sits at the intersection of Python full-stack development, AI systems, and workflow automation.
+
+We work with SaaS companies, startups, agencies, and growing teams that want structured systems instead of scattered tools and manual processes. We serve clients in the USA, Australia, Canada, UK, Germany, Netherlands, Singapore, and Israel.
+
+Founder: Vivek
+Tagline: We don't just write code — we build systems that help businesses operate more intelligently.
+
+---
+
+# Services
+
+## 1. Python Full-Stack Development
+We design and build scalable web applications, SaaS platforms, and backend systems.
+- Custom web application development
+- Python backend development (Django, FastAPI, Flask)
+- REST API development and API integrations
+- React and Next.js frontend development
+- Payment gateway integrations (Stripe, PayPal)
+- Database architecture (PostgreSQL, MySQL, MongoDB)
+- Cloud deployment and infrastructure (AWS, Docker)
+
+Tech stack: Python, Django, FastAPI, Flask, React, Next.js, TypeScript, PostgreSQL, MongoDB, Redis, Docker, AWS, Linux
+
+## 2. AI Agents and LLM Systems
+We build AI-powered systems integrated with real business workflows.
+- GPT-powered chatbots and AI agents
+- Retrieval-Augmented Generation (RAG) systems
+- Knowledge-base AI assistants
+- Multi-agent AI systems
+- AI tools integrated with CRMs, APIs, and internal systems
+
+Technologies: OpenAI GPT-4, Claude, Gemini, LLaMA, Pinecone, ChromaDB
+
+## 3. Automation and CRM Systems
+We design automation systems connecting CRMs, forms, APIs, and AI models.
+- HubSpot and GoHighLevel CRM automation
+- Sales and marketing workflow automation
+- n8n, Make, and Zapier automation
+- Typeform builds (quizzes, pricing calculators, order forms)
+- API and webhook integrations
+
+## 4. Voice AI Systems
+We build voice AI assistants and inbound call handling systems.
+- Voice AI using ElevenLabs and OpenAI Realtime API
+- Inbound call handling with intent detection
+- Voice-to-action automation workflows
+- Integration with existing CRM and ticketing systems
+
+---
+
+# How We Work
+
+1. Clear architecture before development — we document the system before writing a line of code
+2. Production-ready systems, not just demos — everything we ship is deployable and scalable
+3. Clean integrations across AI, APIs, and automation
+4. Scalable systems designed for growth
+
+We communicate clearly, work async-friendly, and provide full documentation on handover.
+
+---
+
+# Pricing
+
+We work on project-based pricing. Typical ranges:
+- Small automation or chatbot project: $1,500 – $4,000
+- Mid-size SaaS or AI agent build: $4,000 – $12,000
+- Full platform or complex multi-agent system: $12,000 – $30,000+
+- Monthly retainer (HubSpot, automation maintenance): $800 – $2,500/month
+
+Every project starts with a free 20-minute discovery call. We provide a fixed-price quote after understanding the scope.
+
+---
+
+# Frequently Asked Questions
+
+## How do I get started?
+Book a free 20-minute discovery call. We'll understand your needs and send you a fixed-price proposal within 48 hours.
+
+## Do you work with international clients?
+Yes. We work with clients in USA, Australia, Canada, UK, Germany, Netherlands, Singapore, and Israel. All work is fully remote and async-friendly.
+
+## How long does a typical project take?
+- Simple chatbot or automation: 1–2 weeks
+- Mid-size AI agent or SaaS MVP: 3–6 weeks
+- Full platform build: 6–12 weeks
+
+## Do you sign NDAs?
+Yes, we sign NDAs before any project discussion that involves sensitive business information.
+
+## What happens after the project is delivered?
+We provide full documentation, a handover call, and 30 days of bug-fix support included in every project. Ongoing maintenance retainers are available.
+
+## Can you work with our existing tech stack?
+Yes. We integrate with whatever you already have — whether that's HubSpot, Salesforce, Shopify, Slack, or custom APIs.
+
+## Do you build MVPs for startups?
+Yes. We specialize in fast, production-ready MVPs using FastAPI and Next.js. Most MVPs are delivered in 3–5 weeks.
+
+## What AI models do you work with?
+We work with OpenAI GPT-4, Claude (Anthropic), Gemini (Google), LLaMA, and open-source models. We recommend the right model for your use case and budget.
+
+## Can you automate our HubSpot?
+Yes. HubSpot automation is one of our core services — workflows, sequences, lead scoring, pipeline automation, and CRM cleanup.
+
+## Do you build n8n workflows?
+Yes. n8n is our preferred automation tool. We build complex multi-step workflows, connect it to LLMs, APIs, and databases.
+
+---
+
+# Contact and Booking
+
+To book a free discovery call: use the booking link provided in this chat
+Email: available on request
+Response time: within 24 hours on business days
